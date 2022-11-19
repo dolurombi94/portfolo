@@ -1,0 +1,92 @@
+div.navigation{
+    display: flex;
+}
+.wraper{
+    padding: 10px 40px;
+    width: 57%;
+    margin: 0 auto;
+    background-color: rgba(238,239,242,255);
+    padding-bottom: 100px;
+   
+
+}
+ul{
+    display: flex;
+    margin-right: 30px;
+    border: 0px;
+}
+.aboutcareer{
+    display: flex;
+}
+.span1{
+    display: flex;
+
+}
+
+.spangeneral{
+    list-style-type: none;
+    margin-left: 20px;
+    justify-content: space-between;
+    padding-top: 120px;
+
+}
+.li1{
+    border: 1px solid rgba(0, 0, 0, 0.251);
+    margin-left: 5px;
+    font-size: 10px;
+    text-align: center;
+    margin-bottom: 3px;
+    text-decoration:bold ;
+    border-radius: 7px;
+    
+}
+.mainintro{
+    justify-content: left;
+    font-size: 12px;
+    
+}
+ul li{
+    margin-left: 10px;
+    font-size: 15px; 
+    list-style-type: none;
+    border-top: 30px;
+    position: relative;
+    top: -15px;
+    left: 130px;
+   
+
+}
+ul.nav{
+    justify-items: left;
+    justify-content: left;
+   
+
+}
+body{
+    padding: 50px 150px;
+    
+}
+.subintro{
+    margin-left: 45px;
+}
+.upperintro{
+    display: flex;
+}
+.nav{margin-left: 20px;
+    
+}
+.logo{
+    font-size: 10px;
+    margin-bottom: 3px;
+    
+}
+.careerintro{
+    padding-top: 70px;
+}
+.intro2{
+    font-size: 13px;
+}
+.image{
+    position: relative;
+    left: 10px;
+}

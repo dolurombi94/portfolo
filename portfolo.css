@@ -90,3 +90,7 @@ body{
     position: relative;
     left: 10px;
 }
+body{
+    background-image: linear-gradient(to right,rgba(200,227,235,255), );
+
+}
